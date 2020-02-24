@@ -1,2 +1,0 @@
-# cvbootstrap
-Currículo em Bootstrap
