@@ -1,2 +1,2 @@
-# http://gabrielcvbootstrap.gihub.io
+# http://gabrielmesmo.gihub.io
 Currículo em Bootstrap
